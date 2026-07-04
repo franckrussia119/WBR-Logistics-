@@ -1,0 +1,6 @@
+{
+  "name": "WBR Trans Logistics",
+  "description": "Pan-African transport and logistics giant moving Africa forward, connecting 54 African countries to the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
